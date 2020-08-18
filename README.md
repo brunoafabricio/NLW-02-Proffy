@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Proffy" src="" />
+  <img alt="Proffy" src="../.github/logo.png" />
 </p>
 
 # NLW-02-Proffy
