@@ -25,6 +25,6 @@
 </p>
 
 <p align="center">
-  <img alt="App Demo" src="https://res.cloudinary.com/brunoafabricio/image/upload/v1597775374/gif/proffy_xqzslx.gif">
+  <img alt="App Demo" src="https://res.cloudinary.com/brunoafabricio/image/upload/v1597785545/gif/proffy_n3v9yi.gif">
 </p>
 
