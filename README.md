@@ -10,7 +10,6 @@
    <a href="https://www.linkedin.com/in/bruno-fabricio-87204b78/">
       <img alt="Bruno Aranalde Fabricio" src="https://img.shields.io/badge/-BrunoFabricio-8257E5?style=flat&logo=Linkedin&logoColor=white" />
    </a>
-   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Brunoafabricio/NLW-02-Proffy?color=774DD6?style=flat-square">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Brunoafabricio/NLW-02-Proffy?color=774DD6">
 
   <a href="https://github.com/brunoafabricio/NLW-02-Proffy/commits/master">
@@ -29,4 +28,7 @@
   <a href="#memo-licença">License</a>
 </p>
 
-<div align="center"> ![](proffy.gif) </div>
+<p align="center">
+  <img alt="App Demo" src="https://res.cloudinary.com/brunoafabricio/image/upload/v1597775374/gif/proffy_xqzslx.gif">
+</p>
+
