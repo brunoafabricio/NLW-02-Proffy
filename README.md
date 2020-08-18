@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img alt="NextLevelWeek_Proffy" title="Proffy Project" src=".github/proffy.png"/>
+</h1>
+
 <p align="center">
   <img alt="Proffy" src="./.github/logo.png"/>
 </p>
@@ -25,6 +29,4 @@
   <a href="#memo-licença">License</a>
 </p>
 
-<h1 align="center">
-    <img alt="NextLevelWeek_Proffy" title="Proffy Project" src=".github/proffy.png"/>
-</h1>
+<p align="center">![](proffy_gif.gif) </p>
