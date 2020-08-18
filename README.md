@@ -1,2 +1,9 @@
+<p align="center">
+  <img alt="Proffy" src="" />
+</p>
+
 # NLW-02-Proffy
-a project made to connect teachers and students to book private lessons. developed in Next Level Week #2 <b>rocktseat</b>
+## Project Desciption
+<p align="justify"> A project made to connect teachers and students to book private lessons. developed in Next Level Week #2 rocktseat </p>
+
+
