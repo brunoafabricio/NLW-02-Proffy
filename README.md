@@ -29,4 +29,4 @@
   <a href="#memo-licença">License</a>
 </p>
 
-![](proffy.gif)
+<p align="center">![](proffy.gif)</p>
