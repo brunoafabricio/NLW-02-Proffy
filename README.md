@@ -28,12 +28,12 @@
   <img alt="App Demo" src="https://res.cloudinary.com/brunoafabricio/image/upload/v1597785545/gif/proffy_n3v9yi.gif">
 </p>
 
-<h1 align="center" id="About">💡About</h1>
-<p algin="center">💻 A project made to connect teachers and students to book private lessons. developed in Next Level Week #2 @Rocketseat 🚀</p>
+<h1 id="About">💡About</h1>
+<p >💻 A project made to connect teachers and students to book private lessons. developed in Next Level Week #2 @Rocketseat 🚀</p>
 
 
 
-<h1 align="center" id="Technologies">💻Technologies</h1>
+<h1 id="Technologies">💻Technologies</h1>
 <la>
   <li>ReactJS
   <li>React Native
@@ -42,7 +42,7 @@
   <li>NodeJS
 </la>
 
-<h1 align="center" id="HowExecute">📥How Execute</h1>
+<h1  id="HowExecute">📥How Execute</h1>
 
 ```bash
 # Clone Repository
@@ -90,6 +90,3 @@ $ yarn install
 
 # Run Aplication
 $ yarn start
-
-# 💡About
-## 💻A project made to connect teachers and students to book private lessons. developed in Next Level Week #2 @Rocketseat 🚀
